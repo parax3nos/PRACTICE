@@ -15,4 +15,4 @@ for i in range(number_of_cars):
 
 print(f"Average velocity: {sum_v/number_of_cars}")
 if (check == 1):
-    print("YER")
+    print("YES")
